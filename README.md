@@ -1,5 +1,7 @@
 # glsl-polar-decart
 
+A [stackgl](https://github.com/stackgl/contributing) library.
+
 Converts coordinates from decart to polar or back.
 
 ## Usage
