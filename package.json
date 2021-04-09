@@ -4,9 +4,9 @@
   "description": "Polar to Decart and Decart to polar transformations.",
   "main": "index.js",
   "license": "MIT",
-  "scripts": {
-    "test": "glslify test.glsl | glsl-testify | tap-spec"
-  },
+  // "scripts": {
+  //   "test": "glslify test.glsl | glsl-testify | tap-spec"
+  // },
   "author": {
     "name": "Ivan Dianov",
     "email": "zor667@gmail.com"
