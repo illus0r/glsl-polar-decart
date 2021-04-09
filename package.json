@@ -1,0 +1,37 @@
+{
+  "name": "glsl-polar-decart",
+  "version": "1.0",
+  "description": "Polar to Decart and Decart to polar transformations.",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "glslify test.glsl | glsl-testify | tap-spec"
+  },
+  "author": {
+    "name": "Ivan Dianov",
+    "email": "zor667@gmail.com"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "glsl-testify": "^1.0.0",
+    "glslify": "^1.6.0",
+    "tap-spec": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/illus0r/glsl-polar-decart"
+  },
+  "keywords": [
+    "polar",
+    "decart",
+    "angle",
+    "transform",
+    "glsl",
+    "glslify",
+    "shader"
+  ],
+  "homepage": "git://github.com/illus0r/glsl-polar-decart",
+  "bugs": {
+    "url": "git://github.com/illus0r/glsl-polar-decart/issues"
+  }
+}
