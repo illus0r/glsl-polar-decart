@@ -2,7 +2,6 @@
   "name": "glsl-polar-decart",
   "version": "1.0.0",
   "description": "Polar to Decart and Decart to polar transformations.",
-  "main": "index.js",
   "license": "MIT",
   "author": {
     "name": "Ivan Dianov",
